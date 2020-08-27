@@ -1,21 +1,3 @@
-/*
-escreval("Digite o nome do aluno: ")
-leia(nome)
-escreval("")
-escreval("Digite a nota 01 do aluno: ")
-leia(nota01)
-escreval("")
-escreval("Digite a nota 02 do aluno: ")
-leia(nota02)
-escreval("")
-media := (nota01 + nota02) / 2
-
-se media >= 5 entao
-   escreval("Aprovado! ", "'",nome,"'")
-senao
-   escreval("Reprovado! ", "'",nome,"'")
-fimse
-*/
 
 var nome, nota01, nota02;
 nome = prompt("Digite o nome do aluno: ")
