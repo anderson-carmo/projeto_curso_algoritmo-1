@@ -1,9 +1,3 @@
-// negação "!passou" - diferente / falso
-// conjunção && - and / e
-// disjunção || - or / ou
-// disjunção esclusiva if(passou) && (media >= 70 && media <= 90))
-
-
 
 var nome, nota01, nota02, passou;
 
